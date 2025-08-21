@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
     "books": [
         {
@@ -25,4 +26,33 @@
             "year": 1988
         }
     ]
+=======
+{
+    "books": [
+        {
+            "id": 1,
+            "title": "Nineteen Eighty-Four",
+            "author": "George Orwell",
+            "year": 1949
+        },
+        {
+            "id": 2,
+            "title": "Last Dance",
+            "author": "John Lee",
+            "year": 1979
+        },
+        {
+            "id": 3,
+            "title": "Huskey",
+            "author": "Kuenzang",
+            "year": 2002
+        },
+        {
+            "id": 4,
+            "title": "The Alchemist",
+            "author": "Paulo Coelho",
+            "year": 1988
+        }
+    ]
+>>>>>>> ee95f4148d8ac7ac34a7b07332c3144224aaccc0
 }
